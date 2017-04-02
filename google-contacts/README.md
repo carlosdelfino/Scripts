@@ -17,7 +17,7 @@ It currently supports the following options:
 Copy and paste the following as a new bookmarlet in your browser
 ```
 (function() {
-  var u = 'https://rawgit.com/VijayS1/Scripts/master/google-contacts/Google%20Contacts%20bookmarlet.js';
+  var u = 'https://rawgit.com/carlosdelfino/Scripts/master/google-contacts/Google%20Contacts%20bookmarlet.js';
   var s = document.createElement('script');
   s.type = 'text/javascript';
   s.charset = 'utf-8';
